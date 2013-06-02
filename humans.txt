@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    RobKohr -- Creator/MC -- http://robkohr.com
+
+# THANKS
+
+    Sven Schramm for creating http://inselkampf.com/ which was the insperation of this game
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    CodeIgniter, LAMP, Git

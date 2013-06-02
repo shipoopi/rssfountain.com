@@ -1,0 +1,30 @@
+#body{
+   display:table;
+   position:absolute;
+   top:0px;
+   left:0px;
+   width:100%;
+}
+#header, #after_header{
+   display:table-row;
+}
+
+#header > div, #after_header > div{
+   padding:4px;
+}
+
+#left_rail, #header_logo{
+   background:#ffffdd;
+   display:table-cell;
+   width:225px;
+}
+
+#header_buttons{
+   background:#ddffff;
+   display:table-cell;
+}
+
+#content{
+   background:#ffddff;
+   display:table-cell;
+}

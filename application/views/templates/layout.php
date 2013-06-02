@@ -28,13 +28,28 @@
 	  </div>
 	</div>
 	<div id="content">
-	  <div id="feed_item">
-	    <div id="feed_item_header">
-	      <div id="star">*</div>
-	      
+	  <div class="feed_item">
+	    <div class="feed_item_header">
+	      <div class="star">*</div>
+	      <div class="feed_title"><!--only show if in folder-->
+		Epoch Times
+	      </div>
+	      <div class="title">
+		Infamous Ship Turned Into Reef In Florida
+	      </div>
+	      <div class="snippet">
+		EW YORK (AP) — A ship infamous for running aground in New York with a cargo full of immigrants has been turned into a reef in Palm Beach County, Fla.
+	      </div>
+	      <div class="date_time">
+		8:34 AM
+	      </div>
+	      <div class="linkout">
+		<a target="_blank" href="http://asdf.com">&gt;</a>
+	      </div>
 	    </div>
-	    <div id="feed_item_content" style="display:none">
-	      
+	    <div class="feed_item_content" style="display:none">
+	      <h3 class="title">Infamous Ship Turned Into Reef In Florida</h3>
+	      <div class="byline">From <a>Epoch Times</a>
 	    </div>
 	  </div>
 

@@ -12,6 +12,10 @@ class Custom_Controller extends CI_Controller{
     $this->load->library('utils');
   }
 
+  public function render_json(){
+    $this->load->view('json', array('data'=>$this->data));
+  }
+
   public function render($view=NULL, $data=array()){
     $data = array_merge($this->data, $data);
     if($view == NULL){

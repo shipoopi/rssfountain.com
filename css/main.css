@@ -27,4 +27,20 @@
 #content{
    background:#ffddff;
    display:table-cell;
+   width:300px;
+}
+
+/* feed item */
+
+.feed_item_header{
+   white-space:nowrap;
+   position:relative;
+   width:100%;
+   overflow:hidden;
+   border-bottom:1px solid #aaaaaa;
+}
+
+.feed_item{
+   border:1px solid #aaaaaa;
+   border-radius:3px;
 }
